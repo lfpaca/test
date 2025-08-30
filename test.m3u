@@ -2,3 +2,5 @@
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 #EXTINF:-1 tvg-id="RaiSport" tvg-logo="https://i.imgur.com/6PEevOM.png" group-title="Sports",RaiSport
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 tvg-id="RaiStoria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="Shows",RaiStoria
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
